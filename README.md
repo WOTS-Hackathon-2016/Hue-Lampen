@@ -7,5 +7,6 @@ During the Hackathon you are going to work with HUE LAMPS!
 Check out the below link so you know how to get your USER ID!
 And don't forget to check our HUE VI folder so that you can straight ahead program with LabVIEW!
 
+#Links
 [Hue Lamps]http://www.developers.meethue.com/documentation/getting-started
 
